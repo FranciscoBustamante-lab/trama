@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cl.academico.trama" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Trama</name>
+  <description>Tienda académica de ropa y accesorios</description>
+  <author>Equipo del proyecto</author>
+  <content src="index.html" />
+  <access origin="https://*.googleapis.com" />
+  <access origin="https://*.firebaseio.com" />
+  <access origin="https://*.firebasestorage.app" />
+  <access origin="https://*.appspot.com" />
+  <access origin="https://*.firebaseapp.com" />
+  <allow-navigation href="https://localhost/*" />
+  <preference name="scheme" value="https" />
+  <preference name="hostname" value="localhost" />
+  <preference name="AndroidInsecureFileModeEnabled" value="false" />
+  <preference name="android-minSdkVersion" value="24" />
+</widget>

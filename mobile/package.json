@@ -1,0 +1,8 @@
+{
+  "name": "cl.academico.trama",
+  "displayName": "Trama",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": { "cordova": "^13.0.0", "cordova-android": "15.0.0" },
+  "cordova": { "platforms": ["android"] }
+}

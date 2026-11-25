@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.local
+mobile/www/
+mobile/node_modules/
+mobile/platforms/
+mobile/plugins/
+mobile/build.json
+*.jks
+*.keystore
+*-debug.log
+.firebase/
+emulator-data/
+*.apk
+*.aab
+*.idsig
